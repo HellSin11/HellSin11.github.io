@@ -1,0 +1,8 @@
+.MyButton {
+    width: 25%;
+    height: 36px;
+    padding: 5px;
+    background: rgba(0, 0, 50, 1);
+    color: whitesmoke;
+    border-radius: 0 10px 10px 0;
+}
